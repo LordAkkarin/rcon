@@ -15,7 +15,6 @@
 
 package org.evilco.network.rcon.server.command.handler;
 
-import io.netty.channel.Channel;
 import org.evilco.network.rcon.server.error.CommandException;
 
 import java.util.List;

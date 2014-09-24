@@ -18,8 +18,6 @@ package org.evilco.network.rcon.common.event.packet;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NonNull;
-import lombok.Setter;
-import org.evilco.network.rcon.common.event.AbstractCancellableEvent;
 import org.evilco.network.rcon.common.event.AbstractEvent;
 import org.evilco.network.rcon.common.packet.PacketWrapper;
 

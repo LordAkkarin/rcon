@@ -16,8 +16,6 @@
 package org.evilco.network.rcon.server;
 
 import com.google.common.eventbus.EventBus;
-import io.netty.channel.Channel;
-import io.netty.channel.ServerChannel;
 import org.evilco.network.rcon.server.command.ICommandRegistry;
 
 /**
